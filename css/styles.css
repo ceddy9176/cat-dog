@@ -1,3 +1,29 @@
 .img-toggle {
     display: none;
 }
+
+#dog-button {
+  margin: auto;
+  display: block;
+}
+
+
+#cat-button {
+  margin: auto;
+  display: block;
+
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+body {
+  background-color: #638092;
+  
+}
